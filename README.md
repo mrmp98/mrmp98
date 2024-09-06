@@ -3,10 +3,16 @@
 
 php dev and laravel
 <br>
-sql 
-js jquery 
-html 
+html
+<br>
 css botstrap 
-git 
-go 
+<br>
 wordpress 
+<br>
+js jquery 
+<br>
+go 
+<br>
+sql 
+<br>
+git 
