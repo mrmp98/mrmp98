@@ -1,3 +1,3 @@
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+![متن جایگزین](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrmp98&layout=compact) 
