@@ -26,10 +26,6 @@ jquery
 <br>
 laravel
 <br>
-go 
-<br>
-sql 
-<br>
 <hr>
 <h1>
 proficient in
