@@ -32,7 +32,9 @@ go
 sql 
 <br>
 <hr>
-<h1>proficient in...<\h1>
+<h1>
+proficient in... 
+<\h1>
 <br>
 sql
 <br>
