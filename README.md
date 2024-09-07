@@ -33,7 +33,7 @@ sql
 <br>
 <hr>
 <h1>
-proficient in... 
+proficient in
 <\h1>
 <br>
 sql
