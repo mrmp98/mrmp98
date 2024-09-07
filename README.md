@@ -16,11 +16,8 @@ php
 <br>
 go 
 <br>
-sql
-<br>
-no sql 
-<br>
-git
+node.js
+
 <hr>
 botstrap 
 <br>
@@ -34,3 +31,11 @@ go
 <br>
 sql 
 <br>
+<hr>
+<h1>proficient in...<\h1>
+<br>
+sql
+<br>
+no sql 
+<br>
+git
