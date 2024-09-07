@@ -34,9 +34,6 @@ sql
 <h1>
 proficient in
  </h1>
-
-
-<br>
 sql
 <br>
 no sql 
