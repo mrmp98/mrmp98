@@ -17,7 +17,6 @@ php
 go 
 <br>
 node.js
-
 <hr>
 botstrap 
 <br>
@@ -34,6 +33,8 @@ sql
 <hr>
 <h1>
 proficient in
+ </h1>
+
 
 <br>
 sql
