@@ -9,7 +9,7 @@ php and laravel developer
 <br>
 <a href='https://github.com/mrmp98/Historical-information-site'>css</a> 
 <br>
-js 
+<a href='https://github.com/mrmp98/js-web'>js</a> 
 <br>
 <a href='https://github.com/mrmp98/shrkat'>php</a>
 <br>
@@ -22,7 +22,7 @@ node.js
 <br>
 wordpress 
 <br>
-jquery 
+<a href='https://github.com/mrmp98/Notif-gold'>jQuery</a> 
 <br>
 laravel
 <br>
