@@ -37,4 +37,5 @@ proficient in
  </h1>
 <br>
 <a href='https://github.com/mrmp98'>git</a>
+ <br>
 Linux
