@@ -16,6 +16,8 @@ php and laravel developer
 go 
 <br>
 node.js
+<br>
+python
 <hr>
 <h1>Framework </h1>
 <a href='https://github.com/mrmp98/Corporate-site'>botstrap</a> 
