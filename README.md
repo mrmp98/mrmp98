@@ -27,11 +27,14 @@ jquery
 laravel
 <br>
 <hr>
+<h1> Storage space </h1>
+ sql
+<br>
+no sql 
+ <hr>
 <h1>
 proficient in
  </h1>
-sql
-<br>
-no sql 
 <br>
 <a href='https://github.com/mrmp98'>git</a>
+Linux
