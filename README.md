@@ -31,6 +31,8 @@ laravel
  sql
 <br>
 no sql 
+ <br>
+ json
  <hr>
 <h1>
 proficient in
