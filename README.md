@@ -17,7 +17,7 @@ go
 <br>
 node.js
 <hr>
-<h1>Framebook </h1>
+<h1>Framework </h1>
 <a href='https://github.com/mrmp98/Corporate-site'>botstrap</a> 
 <br>
 wordpress 
