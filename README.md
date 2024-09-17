@@ -22,7 +22,7 @@ python
 <h1>Framework </h1>
 <a href='https://github.com/mrmp98/Corporate-site'>botstrap</a> 
 <br>
-wordpress 
+<a href='https://github.com/mrmp98/WordPress-website'>WordPress website</a> 
 <br>
 <a href='https://github.com/mrmp98/Notif-gold'>jQuery</a> 
 <br>
