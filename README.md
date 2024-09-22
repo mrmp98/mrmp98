@@ -12,9 +12,6 @@ php and laravel developer
 <a href='https://github.com/mrmp98/js-web'>js</a> 
 <br>
 <a href='https://github.com/mrmp98/shrkat'>php</a>
-<br>
-go 
-<br>
 node.js
 <br>
 python
