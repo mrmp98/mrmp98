@@ -42,4 +42,4 @@ proficient in
 <br>
 <a href='https://github.com/mrmp98'>git</a>
  <br>
-Linux
+<a href='https://ubuntu.com/'>Linux </a>
