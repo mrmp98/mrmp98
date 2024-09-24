@@ -48,5 +48,5 @@ proficient in
 <a href='https://ubuntu.com/'>Linux </a>
 <hr>
 <h1>
-پروژه مشترک
+joint project
  </h1>
