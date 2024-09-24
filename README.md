@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="margin-left: -100px;">
 <img src='https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif'>
 </div>
 <h1>hi im mr mp </h1>
