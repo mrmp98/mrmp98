@@ -1,6 +1,4 @@
-<div style="margin-left: -100px;">
 <img src='https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif'>
-</div>
 <h1>hi im mr mp </h1>
 <h2> back end web dev and Providing security lover
 <h3>
