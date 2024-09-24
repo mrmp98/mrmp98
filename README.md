@@ -28,7 +28,7 @@ laravel
 <br>
 <hr>
 <h1> Storage space </h1>
- <h2>sql:</h2>
+ <h4>sql:</h4>
  <br>
     sql server
  <br>
