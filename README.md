@@ -29,13 +29,12 @@ laravel
 <hr>
 <h1> Storage space </h1>
  <h3>sql:</h3>
- <br>
     sql server
  <br>
     sql lite
 <br>
  <hr>
- <h2>no sql</h2>
+ <h2>no sql :</h2>
     MongoDB
  <br>
     json
