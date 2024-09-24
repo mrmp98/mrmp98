@@ -34,9 +34,10 @@ laravel
  <br>
     sql lite
 <br>
-no sql 
- <br>
- json
+ <hr>
+ <h2>no sql</h2>
+    MongoDB
+    json
  <hr>
 <h1>
 proficient in
