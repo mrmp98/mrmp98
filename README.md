@@ -54,4 +54,8 @@ joint project
 <hr>
 <h1>degree<\h1>
 <br>
-<img href="">
+Professional technical degree
+ <br>
+ Other documents
+ 
+Other documents
