@@ -56,6 +56,6 @@ joint project
  degree
 </h1>
 <br>
- <a href='https://ubuntu.com/'> Professional technical degree </a>
+ <a href='https://github.com/mrmp98/Professional-technical-degree'> Professional technical degree </a>
  <br>
- <a href='https://ubuntu.com/'> Other documents </a>
+ <a href='https://github.com/mrmp98/Other-documents.git'> Other documents </a>
