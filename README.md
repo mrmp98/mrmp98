@@ -52,7 +52,9 @@ joint project
  </h1>
 
 <hr>
-<h1>degree<\h1>
+<h1>
+ degree
+</h1>
 <br>
 Professional technical degree
  <br>
