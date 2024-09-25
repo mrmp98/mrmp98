@@ -56,8 +56,6 @@ joint project
  degree
 </h1>
 <br>
-Professional technical degree
+ <a href='https://ubuntu.com/'> Professional technical degree </a>
  <br>
- Other documents
- 
-Other documents
+ <a href='https://ubuntu.com/'> Other documents </a>
