@@ -50,3 +50,8 @@ proficient in
 <h1>
 joint project
  </h1>
+
+<hr>
+<h1>degree<\h1>
+<br>
+<img href="">
